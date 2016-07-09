@@ -1,0 +1,11 @@
+E:\Work\telegrambots\pbot\partnerBot\partnerBot\bin\Release\partnerBot.exe.config
+E:\Work\telegrambots\pbot\partnerBot\partnerBot\bin\Release\partnerBot.exe
+E:\Work\telegrambots\pbot\partnerBot\partnerBot\bin\Release\partnerBot.pdb
+E:\Work\telegrambots\pbot\partnerBot\partnerBot\bin\Release\Newtonsoft.Json.dll
+E:\Work\telegrambots\pbot\partnerBot\partnerBot\bin\Release\System.Net.Http.Formatting.dll
+E:\Work\telegrambots\pbot\partnerBot\partnerBot\bin\Release\Telegram.Bot.dll
+E:\Work\telegrambots\pbot\partnerBot\partnerBot\bin\Release\Newtonsoft.Json.xml
+E:\Work\telegrambots\pbot\partnerBot\partnerBot\bin\Release\System.Net.Http.Formatting.xml
+E:\Work\telegrambots\pbot\partnerBot\partnerBot\bin\Release\Telegram.Bot.xml
+E:\Work\telegrambots\pbot\partnerBot\partnerBot\obj\Release\partnerBot.exe
+E:\Work\telegrambots\pbot\partnerBot\partnerBot\obj\Release\partnerBot.pdb

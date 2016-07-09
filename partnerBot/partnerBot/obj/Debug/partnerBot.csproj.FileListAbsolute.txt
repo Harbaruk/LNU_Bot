@@ -1,0 +1,67 @@
+E:\Work\telegrambots\pbot\partnerBot\partnerBot\bin\Debug\partnerBot.exe.config
+E:\Work\telegrambots\pbot\partnerBot\partnerBot\bin\Debug\partnerBot.exe
+E:\Work\telegrambots\pbot\partnerBot\partnerBot\bin\Debug\partnerBot.pdb
+E:\Work\telegrambots\pbot\partnerBot\partnerBot\bin\Debug\Newtonsoft.Json.dll
+E:\Work\telegrambots\pbot\partnerBot\partnerBot\bin\Debug\System.Net.Http.Formatting.dll
+E:\Work\telegrambots\pbot\partnerBot\partnerBot\bin\Debug\Telegram.Bot.dll
+E:\Work\telegrambots\pbot\partnerBot\partnerBot\bin\Debug\Newtonsoft.Json.xml
+E:\Work\telegrambots\pbot\partnerBot\partnerBot\bin\Debug\System.Net.Http.Formatting.xml
+E:\Work\telegrambots\pbot\partnerBot\partnerBot\bin\Debug\Telegram.Bot.xml
+E:\Work\telegrambots\pbot\partnerBot\partnerBot\obj\Debug\partnerBot.exe
+E:\Work\telegrambots\pbot\partnerBot\partnerBot\obj\Debug\partnerBot.pdb
+E:\Work\telegrambots\pbot\partnerBot\partnerBot\obj\Debug\partnerBot.csprojResolveAssemblyReference.cache
+C:\Users\Elfarus\Desktop\partnerBot\partnerBot\partnerBot\bin\Debug\partnerBot.exe.config
+C:\Users\Elfarus\Desktop\partnerBot\partnerBot\partnerBot\obj\Debug\partnerBot.exe
+C:\Users\Elfarus\Desktop\partnerBot\partnerBot\partnerBot\obj\Debug\partnerBot.pdb
+C:\Users\Elfarus\Desktop\partnerBot\partnerBot\partnerBot\bin\Debug\partnerBot.exe
+C:\Users\Elfarus\Desktop\partnerBot\partnerBot\partnerBot\bin\Debug\partnerBot.pdb
+C:\Users\Elfarus\Desktop\partnerBot\partnerBot\partnerBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Elfarus\Desktop\partnerBot\partnerBot\partnerBot\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Elfarus\Desktop\partnerBot\partnerBot\partnerBot\bin\Debug\Telegram.Bot.dll
+C:\Users\Elfarus\Desktop\partnerBot\partnerBot\partnerBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Elfarus\Desktop\partnerBot\partnerBot\partnerBot\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Elfarus\Desktop\partnerBot\partnerBot\partnerBot\bin\Debug\Telegram.Bot.xml
+C:\Users\Elfarus\Desktop\partnerBot\partnerBot\partnerBot\obj\Debug\partnerBot.csprojResolveAssemblyReference.cache
+C:\Users\Elfarus\Desktop\PersyBot\partnerBot\partnerBot\partnerBot\bin\Debug\partnerBot.exe.config
+C:\Users\Elfarus\Desktop\PersyBot\partnerBot\partnerBot\partnerBot\obj\Debug\partnerBot.exe
+C:\Users\Elfarus\Desktop\PersyBot\partnerBot\partnerBot\partnerBot\obj\Debug\partnerBot.pdb
+C:\Users\Elfarus\Desktop\PersyBot\partnerBot\partnerBot\partnerBot\bin\Debug\partnerBot.exe
+C:\Users\Elfarus\Desktop\PersyBot\partnerBot\partnerBot\partnerBot\bin\Debug\partnerBot.pdb
+C:\Users\Elfarus\Desktop\PersyBot\partnerBot\partnerBot\partnerBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Elfarus\Desktop\PersyBot\partnerBot\partnerBot\partnerBot\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Elfarus\Desktop\PersyBot\partnerBot\partnerBot\partnerBot\bin\Debug\Telegram.Bot.dll
+C:\Users\Elfarus\Desktop\PersyBot\partnerBot\partnerBot\partnerBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Elfarus\Desktop\PersyBot\partnerBot\partnerBot\partnerBot\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Elfarus\Desktop\PersyBot\partnerBot\partnerBot\partnerBot\bin\Debug\Telegram.Bot.xml
+C:\Users\Elfarus\Desktop\PersyBot\partnerBot\partnerBot\partnerBot\obj\Debug\partnerBot.csprojResolveAssemblyReference.cache
+C:\Users\Elfarus\Desktop\PersyBot\partnerBot - копия\partnerBot\partnerBot\bin\Debug\partnerBot.exe.config
+C:\Users\Elfarus\Desktop\PersyBot\partnerBot - копия\partnerBot\partnerBot\obj\Debug\partnerBot.exe
+C:\Users\Elfarus\Desktop\PersyBot\partnerBot - копия\partnerBot\partnerBot\obj\Debug\partnerBot.pdb
+C:\Users\Elfarus\Desktop\PersyBot\partnerBot - копия\partnerBot\partnerBot\bin\Debug\partnerBot.exe
+C:\Users\Elfarus\Desktop\PersyBot\partnerBot - копия\partnerBot\partnerBot\bin\Debug\partnerBot.pdb
+C:\Users\Elfarus\Desktop\PersyBot\partnerBot - копия\partnerBot\partnerBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Elfarus\Desktop\PersyBot\partnerBot - копия\partnerBot\partnerBot\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Elfarus\Desktop\PersyBot\partnerBot - копия\partnerBot\partnerBot\bin\Debug\Telebot.dll
+C:\Users\Elfarus\Desktop\PersyBot\partnerBot - копия\partnerBot\partnerBot\bin\Debug\Telegram.Bot.dll
+C:\Users\Elfarus\Desktop\PersyBot\partnerBot - копия\partnerBot\partnerBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Elfarus\Desktop\PersyBot\partnerBot - копия\partnerBot\partnerBot\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Elfarus\Desktop\PersyBot\partnerBot - копия\partnerBot\partnerBot\bin\Debug\Telebot.xml
+C:\Users\Elfarus\Desktop\PersyBot\partnerBot - копия\partnerBot\partnerBot\bin\Debug\Telegram.Bot.xml
+C:\Users\Elfarus\Desktop\PersyBot\partnerBot - копия\partnerBot\partnerBot\obj\Debug\partnerBot.csprojResolveAssemblyReference.cache
+C:\Users\Elfarus\Desktop\Курсова\LNUBot\partnerBot\partnerBot\bin\Debug\partnerBot.exe.config
+C:\Users\Elfarus\Desktop\Курсова\LNUBot\partnerBot\partnerBot\obj\Debug\partnerBot.exe
+C:\Users\Elfarus\Desktop\Курсова\LNUBot\partnerBot\partnerBot\obj\Debug\partnerBot.pdb
+C:\Users\Elfarus\Desktop\Курсова\LNUBot\partnerBot\partnerBot\bin\Debug\partnerBot.exe
+C:\Users\Elfarus\Desktop\Курсова\LNUBot\partnerBot\partnerBot\bin\Debug\partnerBot.pdb
+C:\Users\Elfarus\Desktop\Курсова\LNUBot\partnerBot\partnerBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Elfarus\Desktop\Курсова\LNUBot\partnerBot\partnerBot\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Elfarus\Desktop\Курсова\LNUBot\partnerBot\partnerBot\bin\Debug\Telebot.dll
+C:\Users\Elfarus\Desktop\Курсова\LNUBot\partnerBot\partnerBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Elfarus\Desktop\Курсова\LNUBot\partnerBot\partnerBot\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Elfarus\Desktop\Курсова\LNUBot\partnerBot\partnerBot\bin\Debug\Telebot.xml
+C:\Users\Elfarus\Desktop\Курсова\LNUBot\partnerBot\partnerBot\obj\Debug\partnerBot.csprojResolveAssemblyReference.cache
+C:\Users\Elfarus\Desktop\Курсова\LNUBot\partnerBot\partnerBot\bin\Debug\BotDB.mdf
+C:\Users\Elfarus\Desktop\Курсова\LNUBot\partnerBot\partnerBot\bin\Debug\BotDB_log.ldf
+D:\Studying\Курсова\LNUBot\partnerBot\partnerBot\bin\Debug\partnerBot.exe.config
+D:\Studying\Курсова\LNUBot\partnerBot\partnerBot\obj\Debug\partnerBot.exe
+D:\Studying\Курсова\LNUBot\partnerBot\partnerBot\obj\Debug\partnerBot.pdb
