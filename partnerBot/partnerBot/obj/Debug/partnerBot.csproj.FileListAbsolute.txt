@@ -65,3 +65,14 @@ C:\Users\Elfarus\Desktop\Курсова\LNUBot\partnerBot\partnerBot\bin\Debug\B
 D:\Studying\Курсова\LNUBot\partnerBot\partnerBot\bin\Debug\partnerBot.exe.config
 D:\Studying\Курсова\LNUBot\partnerBot\partnerBot\obj\Debug\partnerBot.exe
 D:\Studying\Курсова\LNUBot\partnerBot\partnerBot\obj\Debug\partnerBot.pdb
+D:\Studying\Курсова\LNUBot\partnerBot\partnerBot\bin\Debug\BotDB.mdf
+D:\Studying\Курсова\LNUBot\partnerBot\partnerBot\bin\Debug\BotDB_log.ldf
+D:\Studying\Курсова\LNUBot\partnerBot\partnerBot\bin\Debug\partnerBot.exe
+D:\Studying\Курсова\LNUBot\partnerBot\partnerBot\bin\Debug\partnerBot.pdb
+D:\Studying\Курсова\LNUBot\partnerBot\partnerBot\bin\Debug\Newtonsoft.Json.dll
+D:\Studying\Курсова\LNUBot\partnerBot\partnerBot\bin\Debug\System.Net.Http.Formatting.dll
+D:\Studying\Курсова\LNUBot\partnerBot\partnerBot\bin\Debug\Telebot.dll
+D:\Studying\Курсова\LNUBot\partnerBot\partnerBot\bin\Debug\Newtonsoft.Json.xml
+D:\Studying\Курсова\LNUBot\partnerBot\partnerBot\bin\Debug\System.Net.Http.Formatting.xml
+D:\Studying\Курсова\LNUBot\partnerBot\partnerBot\bin\Debug\Telebot.xml
+D:\Studying\Курсова\LNUBot\partnerBot\partnerBot\obj\Debug\partnerBot.csprojResolveAssemblyReference.cache

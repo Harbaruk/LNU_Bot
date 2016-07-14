@@ -139,7 +139,7 @@ namespace PartnerBot
                                         Random rand = new Random();
                                         await Bot.SendMessageAsync(update.Message.Chat.Id, "Я ще не вмію говорити добре, але ось тобі єнотик");
                                         await Bot.SendPhotoFromFileAsync(update.Message.Chat.Id,
-                                            "C:\\Users\\Elfarus\\Desktop\\Курсова\\LNUBot\\partnerBot\\Raccoon\\"
+                                            "D:\\Studying\\Курсова\\LNUBot\\partnerBot\\Raccoon\\"
                                             + rand.Next(1, 8) + ".jpg", replyMarkup: PartnerBot.Answers.replyMarkups(ConversationStatus.MainMenu));
 
 

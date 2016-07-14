@@ -26,7 +26,7 @@ namespace partnerBot
         {
             List<Activities> res = new List<Activities>();
             string sqlquery = "SELECT * FROM Activities";
-            string connectionstring = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\Elfarus\\Desktop\\Курсова\\LNUBot\\partnerBot\\partnerBot\\BotDB.mdf;Integrated Security=True";
+            string connectionstring = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=D:\\Studying\\Курсова\\LNUBot\\partnerBot\\partnerBot\\BotDB.mdf;Integrated Security=True";
             SqlConnection connect = new SqlConnection(connectionstring);
 
 

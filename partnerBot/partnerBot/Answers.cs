@@ -55,29 +55,7 @@ namespace PartnerBot
                 return res;
             }
 
-            #region Not important
-            //    public const string A11_bReady = "Добавьте меня в контакты (@alive2059) и опишите в кратце, какие функции вы хотите поручить боту." +
-            //        "\nЧтобы вернуться к началу нажмите /start";
-
-            //    public const string A3_bCapabilities = "Боты могут брать любую доступную"+
-            //        " инфрмацию (данные о товарах с сайта, ингридиентах блюд и т.д.) и обрабатывать их по заданной логике."+
-            //        " А благодаря нашему искусственному интеллекту, общение бота с человеком происходит в максимально удобной форме.";
-            //    public const string A3_bPrice = "Разработке бота сопоставима по ценам с разработкой веб-сайтов и"+
-            //        " значительно дешевле разработки приложений под мобильные устройства.\n"+
-            //        "Учитывая, новизну темы и туманные перспективы развития отрасли ботов, мы предлагаем формат подписки."+
-            //        " То есть, мы делаем бота, а вы подписываетесь на его использование.\n"+
-            //        "Такой формат позволит проверить пользу бота с небольшими вложениями.";
-            //    public const string A3_bTime = "Разработка бота занимает в среднем около месяца.";
-
-            //    public const string A10_0 = "У нас есть бот, который уже делает заказ еды";
-            //    public const string A10_1 = "У нас есть бот, который уже делает заказ билетов";
-            //    public const string A10_2 = "У нас есть бот, который помагает искать работу";
-            //    public const string A10_3 = "У нас есть бот, который уже делает заказ такси";
-            //    public const string A10_4 = "Список наших ботов:     \n\n";
-
-            //    public const string A0_bus = "Мы готовы помочь с бизнесом. Что интересует?";
-
-            //}
+       
             public struct ClientAnswers
             {
 
@@ -98,49 +76,7 @@ namespace PartnerBot
                 public const string L11_bReady = "Я готов. Что делать?";
                 public const string L11_bBack = "Назад";
             }
-
-            //public static List<string> Messenger()
-            //{
-            //    List<string> messenger = new List<string>();
-            //    messenger.Add("Telegram");
-            //    messenger.Add("Skype");
-            //    messenger.Add("Slack");
-            //    messenger.Add("Viber");
-            //    return messenger;
-            //}
-
-            //public static List<string> Language()
-            //{
-            //    List<string> language = new List<string>();
-            //    language.Add("C#");
-            //    language.Add("Python");
-            //    language.Add("Node");
-            //    language.Add("Java");
-            //    language.Add("C++");
-            //    return language;
-            //}
-
-            //public static List<string> Occupation()
-            //{
-            //    List<string> occupation = new List<string>();
-            //    occupation.Add("Заказ еды");
-            //    occupation.Add("Заказ билетов");
-            //    occupation.Add("Поиск работы");
-            //    occupation.Add("Заказ такси");
-            //    occupation.Add("Другое");
-            //    return occupation;
-            //}
-
-            //public static List<string> Promoter()
-            //{
-            //    List<string> promoter = new List<string>();
-            //    promoter.Add("Я - менеджер по продажам");
-            //    promoter.Add("Я - маркетолог");
-            //    promoter.Add("Я - сммщик");
-            //    return promoter;
-            //}
-            #endregion
-
+           
         }
 
         public struct UserAnswers

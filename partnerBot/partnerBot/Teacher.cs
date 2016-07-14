@@ -75,7 +75,7 @@ namespace partnerBot
         {
             List<Teacher> res = new List<Teacher>();
             string sqlquery = "SELECT * FROM Teachers Where department = N'"+depart.ToLower()+"'";
-            string connectionstring = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\Elfarus\\Desktop\\Курсова\\LNUBot\\partnerBot\\partnerBot\\BotDB.mdf;Integrated Security=True";
+            string connectionstring = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=D:\\Studying\\Курсова\\LNUBot\\partnerBot\\partnerBot\\BotDB.mdf;Integrated Security=True";
             SqlConnection connect = new SqlConnection(connectionstring);
 
 
@@ -90,8 +90,8 @@ namespace partnerBot
                 {
                    res.Add(new Teacher(read[1].ToString(),read[2].ToString(), read[3].ToString(), read[4].ToString(), 
                        read[5].ToString(),
-                       "C:\\Users\\Elfarus\\Desktop\\Курсова\\LNUBot\\partnerBot\\Teacher\\"
-                       +Transliter.GetTranslit((read[6].ToString().ToLower())),
+                       "D:\\Studying\\Курсова\\LNUBot\\partnerBot\\Teacher\\"
+                       + Transliter.GetTranslit((read[6].ToString().ToLower())),
                        read[7].ToString()));
 
                     if (read[6] == null || read[6].ToString() == "") res.Last().Photo = null;
