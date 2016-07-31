@@ -28,7 +28,7 @@ namespace partnerBot
             if (group == "п'ятий") group = "пятий";
             string sqlquery = "SELECT link FROM Links WHERE keylink = N'"+group+"'";
             string value = "";
-            string connectionstring = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\Elfarus\\Desktop\\Курсова\\LNUBot\\partnerBot\\partnerBot\\BotDB.mdf;Integrated Security=True";
+            string connectionstring = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=D:\\Studying\\Курсова\\LNUBot\\partnerBot\\partnerBot\\BotDB.mdf;Integrated Security=True";
             SqlConnection connect = new SqlConnection(connectionstring);
             
 

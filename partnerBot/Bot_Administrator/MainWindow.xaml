@@ -5,9 +5,27 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Bot_Administrator"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
+        Title="Admin" Height="350" Width="525">
     <Grid>
-        <Button x:Name="button" Content="Button" HorizontalAlignment="Left" Margin="235,165,0,0" VerticalAlignment="Top" Width="75" Click="button_Click"/>
+        <Button x:Name="SaveButton" Content="Save" HorizontalAlignment="Left" Margin="423,230,0,0" VerticalAlignment="Top" Width="75" Click="button_Click"/>
+        <ComboBox x:Name="DepartBox" HorizontalAlignment="Left" Margin="157,124,0,0" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="NameBox" HorizontalAlignment="Left" Height="23" Margin="157,40,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Menu x:Name="menu" HorizontalAlignment="Left" Height="19" VerticalAlignment="Top" Width="517">
+            <MenuItem Header="Add"/>
+            <MenuItem Header="Edit"/>
+            <MenuItem Header="Delete"/>
+            <MenuItem Header="Show log"/>
+        </Menu>
+        <TextBox x:Name="SurnameBox" HorizontalAlignment="Left" Height="23" Margin="157,68,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="FatherBox" HorizontalAlignment="Left" Height="23" Margin="157,96,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="PositionBox" HorizontalAlignment="Left" Height="23" Margin="157,151,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="PhotoButton" Content="Add photo" HorizontalAlignment="Left" Margin="157,197,0,0" VerticalAlignment="Top" Width="120" Click="PhotoButton_Click"/>
+        <Label x:Name="NameLab" Content="Name :" HorizontalAlignment="Left" Margin="40,40,0,0" VerticalAlignment="Top" Width="101" Height="23"/>
+        <Label x:Name="SurnameLab" Content="Surname :" HorizontalAlignment="Left" Margin="40,68,0,0" VerticalAlignment="Top" Width="101" Height="23"/>
+        <Label x:Name="FatherLab" Content="Father's name :" HorizontalAlignment="Left" Margin="40,96,0,0" VerticalAlignment="Top" Width="101" Height="23"/>
+        <Label x:Name="DepartLab" Content="Department :" HorizontalAlignment="Left" VerticalAlignment="Top" Width="101" Height="28" Margin="40,124,0,0"/>
+        <Label x:Name="PositionLab" Content="Position :" HorizontalAlignment="Left" VerticalAlignment="Top" Width="101" Height="23" Margin="40,152,0,0"/>
+        <TextBox x:Name="BiographyBox" HorizontalAlignment="Left" Height="183" Margin="387,24,0,0" TextWrapping="Wrap" Text="Short biography" VerticalAlignment="Top" Width="120" UndoLimit="500" MouseDown="BiographyBox_MouseDown"/>
 
     </Grid>
 </Window>
