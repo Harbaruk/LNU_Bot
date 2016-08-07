@@ -24,10 +24,11 @@ namespace Bot_Administrator
     public partial class MainWindow : Window
     {
 
-        public partnerBot.Teacher temp = new partnerBot.Teacher();
+        public Teacher temp = new Teacher();
         public MainWindow()
         {
             InitializeComponent();
+            //Background = new ImageBrush(new BitmapImage(new Uri("..\\..\\LogoLNU.gif")));
         }
 
         private void button_Click(object sender, RoutedEventArgs e)
@@ -52,6 +53,11 @@ namespace Bot_Administrator
             dialog.Multiselect = false;
             dialog.Filter = "Image files (*.png;*.jpeg)|*.png;*.jpeg|All files (*.*)|*.*";
             temp.Photo = "D:\\Studying\\Курсова\\LNUBot\\partnerBot\\Teacher\\" + Transliter.GetTranslit(dialog.FileName);
+        }
+
+        private void MenuItem_Click(object sender, RoutedEventArgs e)
+        {
+            DeleteTCanvas.Visibility = Visibility.Hidden;
         }
     }
 }
